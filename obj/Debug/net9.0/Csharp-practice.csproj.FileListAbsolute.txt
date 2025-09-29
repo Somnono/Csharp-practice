@@ -1,0 +1,14 @@
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\bin\Debug\net9.0\Csharp-practice.exe
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\bin\Debug\net9.0\Csharp-practice.deps.json
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\bin\Debug\net9.0\Csharp-practice.runtimeconfig.json
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\bin\Debug\net9.0\Csharp-practice.dll
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\bin\Debug\net9.0\Csharp-practice.pdb
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\Csharp-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\Csharp-practice.AssemblyInfoInputs.cache
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\Csharp-practice.AssemblyInfo.cs
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\Csharp-practice.csproj.CoreCompileInputs.cache
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\Csharp-practice.dll
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\refint\Csharp-practice.dll
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\Csharp-practice.pdb
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\Csharp-practice.genruntimeconfig.cache
+C:\Users\Dorian\Documents\GitHub\Csharp-practice\obj\Debug\net9.0\ref\Csharp-practice.dll
