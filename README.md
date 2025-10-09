@@ -62,3 +62,5 @@ Work towards full-stack .NET projects (backend APIs, web apps)
 GitHub: Somnono
 
 LinkedIn: www.linkedin.com/in/somnono-mabena
+
+![alt text](image.png)
